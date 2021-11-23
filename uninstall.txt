@@ -12,3 +12,10 @@ Xbox Game Speech Window
 Paint 3D
 3D Viewer
 skype
+MSN Weather
+Microsoft Sticky Notes
+Xbox TCUI
+Xbox Console Companion
+Xbox Identity Provider
+Microsoft OneDrive
+Mail and Calendar
