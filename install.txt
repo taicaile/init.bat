@@ -3,3 +3,4 @@ WeChat
 Google Chrome
 Windows Terminal
 TIM
+Microsoft Visual Studio Code
